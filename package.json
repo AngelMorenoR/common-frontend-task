@@ -1,0 +1,11 @@
+{
+  "name": "commontaskwithjs",
+  "version": "1.0.0",
+  "description": "a common task as a frontEnd developer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Angel Moreno",
+  "license": "ISC" 
+}
